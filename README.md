@@ -1,5 +1,7 @@
 # IMM120
-IMM 120 - Introduction to Interactive Computing
+
+### Introduction to Interactive Computing
+Fall 2019
 
 ### Resources
 - https://p5js.org
