@@ -3,7 +3,6 @@
 - Fall 2019
 
 ## Topics
-
 ### Unit 1: Drawing with Code
 Key terms: HTML page, p5.js sketch, pixel, console/JavaScript console, debugging, function, parameter, comment, x/y coordinates, radians, drawing order, stroke, fill, weight, RGB color, alpha value, vertex, computer memory, variable, character, global variable, operator, expression
 
