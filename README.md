@@ -2,13 +2,15 @@
 - Introduction to Interactive Computing
 - Fall 2019
 
-## Unit 1: Drawing with Code
+## Topics
+
+### Unit 1: Drawing with Code
 Key terms: HTML page, p5.js sketch, pixel, console/JavaScript console, debugging, function, parameter, comment, x/y coordinates, radians, drawing order, stroke, fill, weight, RGB color, alpha value, vertex, computer memory, variable, character, global variable, operator, expression
 
-## Unit 2: Interactivity
+### Unit 2: Interactivity
 Key terms: frame, boolean, the logical AND/OR operator (&&/||), key variable, transformations, push, pop, persistence of vision, frame rate, float, sine/cosine
 
-## Unit 3: Abstraction and Modularity
+### Unit 3: Abstraction and Modularity
 Key terms: functions, modularity, parameter, return value
 
 ## Projects
