@@ -2,6 +2,9 @@
 
 [**Web Preview**](https://cchirpy.github.io/IMM120/assignments/pac-move/)
 
+## Controls
+- Use the arrow keys to change directions
+
 ## Learning Objectives
 - Gain mastery with if and else statements and relational expressions
 - Gain experience working with keyboard input
