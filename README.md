@@ -21,7 +21,7 @@ Key terms: functions, modularity, parameter, return value
 
 ## Assignments
 - [Unit 1, Lab 1: Mirror Robot](assignments/mirrorbot/README.md)
-- [Unit 1, Lab 2: Color Stacks]()
+- [Unit 1, Lab 2: Color Stacks](assignments/colorstacks/README.md)
 - [Unit 2, Lab 1: Make Pac Move]()
 - [Unit 2, Lab 2: Easing Down]()
 - [Unit 3, Lab 1: Add Parameters to Existing Function]()
