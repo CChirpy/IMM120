@@ -1,4 +1,4 @@
-# Lab 2: Refactor a Function into a Class
+# Unit 3 Lab 2: Refactor a Function into a Class
 
 [**Web Preview**](https://cchirpy.github.io/IMM120/assignments/cloud/)
 
