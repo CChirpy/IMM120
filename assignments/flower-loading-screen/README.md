@@ -13,3 +13,6 @@
 ## Resources
 Inspired by quote from Georgia O’Keeffe:
 > Nobody sees a flower - really - it is so small it takes time - we haven’t time - and to see takes time, like to have a friend takes time.
+
+## Additional Notes
+- Learned that colors can look vastly different from screen to screen
