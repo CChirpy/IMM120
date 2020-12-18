@@ -15,18 +15,18 @@ Key terms: frame, boolean, the logical AND/OR operator (&&/||), key variable, tr
 Key terms: functions, modularity, parameter, return value
 
 ## Projects
-- [Project 1: Thematic Drawing with Animation]()
-- [Project 2: Unusual Clock]()
-- [Final Project: Game Prototype]()
+- [Project 1: Thematic Drawing with Animation](assignments/flower-loading-screen/README.md)
+- [Project 2: Unusual Clock](assignments/uwu-clock/README.md)
+- [Final Project: Game Prototype](assignments/game-prototype/README.md)
 
 ## Assignments
 - [Unit 1, Lab 1: Mirror Robot](assignments/mirrorbot/README.md)
 - [Unit 1, Lab 2: Color Stacks](assignments/colorstacks/README.md)
 - [Unit 2, Lab 1: Make Pac Move](assignments/pac-move/README.md)
 - [Unit 2, Lab 2: Easing Down](assignments/easingdown/README.md)
-- [Unit 3, Lab 1: Add Parameters to Existing Function]()
-- [Unit 3, Lab 2: Refactor a Function into a Class]()
-- [Unit 3, Lab 3: Koopa Troopa Shuffle]()
+- [Unit 3, Lab 1: Add Parameters to Existing Function](assignments/bat/README.md)
+- [Unit 3, Lab 2: Refactor a Function into a Class](assignments/cloud/README.md)
+- [Unit 3, Lab 3: Koopa Troopa Shuffle](assignments/koopa-fall/README.md)
 
 ## Resources
 - https://p5js.org
