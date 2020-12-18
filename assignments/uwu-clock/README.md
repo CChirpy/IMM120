@@ -47,3 +47,6 @@ and a certain bakery many people I know like to go to late at night
 > inspiration strikes at 2am  
 
 Refers to a quote in “Four Leaf”, a webcomic by Lumaga
+
+## Additional Notes
+- Special thanks to Toyo for notifying me on an issue where a tap registered as a double tap on mobile.
