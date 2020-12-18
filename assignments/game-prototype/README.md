@@ -11,10 +11,9 @@ A tamagotchi web game prototype.
 - /credits /restart
 
 ## Learning Objectives
-- Gain mastery with if and else statements and relational expressions
-- Gain experience working with keyboard input
-- Gain mastery with using variables to control the state of a sketch
-- Gain experience combining translate and rotate to affect the coordinate system of a sketch
+- Gain experience thinking in terms of object-oriented design 
+- Gain mastery over the interactions between sprites and user interactions, including via collisions, overlapping, touches, position, etc.
+- Learn how to represent multiple “states” of a game, including a title screen, game play, end screen, credits screen, etc.
 
 ## Resources
 - Sprites pulled from Tatsugotchi (2019)
