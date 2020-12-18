@@ -19,6 +19,7 @@ A first course in computing languages for interactive multimedia. Students learn
 - [Unit 3, Lab 2: Refactor a Function into a Class](assignments/cloud/README.md)
 - [Unit 3, Lab 3: Koopa Troopa Shuffle](assignments/koopa-fall/README.md)
 
+## Unit Topics
 ### Unit 1: Drawing with Code
 Key terms: HTML page, p5.js sketch, pixel, console/JavaScript console, debugging, function, parameter, comment, x/y coordinates, radians, drawing order, stroke, fill, weight, RGB color, alpha value, vertex, computer memory, variable, character, global variable, operator, expression
 
