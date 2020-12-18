@@ -27,7 +27,7 @@ Key terms: HTML page, p5.js sketch, pixel, console/JavaScript console, debugging
 Key terms: frame, boolean, the logical AND/OR operator (&&/||), key variable, transformations, push, pop, persistence of vision, frame rate, float, sine/cosine, refactoring, relational expressions
 
 ### Unit 3: Abstraction and Modularity
-Key terms: functions, modularity, parameter, return value
+Key terms: functions, modularity, parameter, return value, constructor function
 
 ## Resources
 - https://p5js.org

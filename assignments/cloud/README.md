@@ -1,4 +1,4 @@
-# Unit 2 Lab 1: Make Pac Move
+# Lab 2: Refactor a Function into a Class
 
 [**Web Preview**](https://cchirpy.github.io/IMM120/assignments/cloud/)
 
