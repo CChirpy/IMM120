@@ -11,7 +11,7 @@
 - Learn how to use variables and conditional statements to add basic animation to a sketch
 
 ## Resources
-Inspired by quote from Georgia O’Keeffe:
+Inspired by a quote from Georgia O’Keeffe:
 > Nobody sees a flower - really - it is so small it takes time - we haven’t time - and to see takes time, like to have a friend takes time.
 
 ## Additional Notes
