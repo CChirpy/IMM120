@@ -1,5 +1,5 @@
 # Final Project: Game Prototype
-[**Web Preview**](https://cchirpy.github.io/IMM120/assignments/pac-move/)
+[**Web Preview**](https://cchirpy.github.io/IMM120/assignments/game-prototype/)
 
 ## Description
 A tamagotchi web game prototype.
@@ -11,7 +11,7 @@ A tamagotchi web game prototype.
 - /credits /restart
 
 ## Learning Objectives
-- Gain experience thinking in terms of object-oriented design 
+- Gain experience thinking in terms of object-oriented design
 - Gain mastery over the interactions between sprites and user interactions, including via collisions, overlapping, touches, position, etc.
 - Learn how to represent multiple “states” of a game, including a title screen, game play, end screen, credits screen, etc.
 
